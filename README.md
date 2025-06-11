@@ -8,7 +8,7 @@ directly for fat16 boot partitions since that was my only issue from last tests
 
 in the mean time you can test yourself if you want until i do just download the provided file steamoscloner
 
-just be sure to resize your home partation to around 5gb since i have a set 20gb size for .img at the moment and it doesnt go by size of drives
+just be sure to resize your home partation to around 5gb since i have a set 20gb size for .img at the moment and it doesnt go by size of partitions
 
 
 current tui and build
