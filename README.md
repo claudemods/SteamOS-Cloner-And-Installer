@@ -8,6 +8,8 @@ directly for fat16 boot partitions since that was my only issue from last tests
 
 in the mean time you can test yourself if you want until i do just download the provided file steamoscloner
 
+just be sure to resize your home partition to around 5gb
+
 
 current tui and build
 
