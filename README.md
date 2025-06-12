@@ -15,6 +15,6 @@ current tui and build
 
 ![Screenshot_20250612_025709](https://github.com/user-attachments/assets/17bedb0f-1c46-4b78-8449-da1fd349da8e)
 
-current method note the red text is now cyan
+current method note the red text is now cyan and the message is different 
 
 ![Screenshot_20250612_045812_Gallery](https://github.com/user-attachments/assets/f2e42a24-05d4-4d65-9929-d8018375b079)
