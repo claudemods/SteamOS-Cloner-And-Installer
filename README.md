@@ -13,5 +13,6 @@ just be sure to resize your home partation to around 5gb since i have a set 20gb
 
 current tui and build
 
-![Screenshot_20250611_234450](https://github.com/user-attachments/assets/34b0311c-e9af-48df-b1d0-c2741ad93740)
+![Screenshot_20250612_025709](https://github.com/user-attachments/assets/17bedb0f-1c46-4b78-8449-da1fd349da8e)
+
 
